@@ -11,3 +11,4 @@
 | 007 |  二叉搜索树与双向链表 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)  |
 | 008 |  二叉树的深度 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)  |
 | 009 |  平衡二叉树 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)  |
+| 010 |  二叉树的下一个结点 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BB%93%E7%82%B9.md)  |
