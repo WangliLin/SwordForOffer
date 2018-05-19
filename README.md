@@ -20,6 +20,10 @@
 | 016 |  从尾到头打印链表 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)  |
 | 017 |  反转链表 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)  |
 | 018 |  合并两个排序的链表 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.md)  |
+| 019 |  斐波那契数列 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)  |
+| 020 |  跳台阶 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E8%B7%B3%E5%8F%B0%E9%98%B6.md)  |
+| 021 |  替换空格 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)  |
+
 
 
 
