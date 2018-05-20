@@ -25,6 +25,8 @@
 | 021 |  替换空格 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)  |
 | 022 |  链表中倒数第k个结点 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md)  |
 | 023 |  矩形覆盖 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md)  |
+| 024 |  二维数组中的查找 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.md)  |
+
 
 
 
