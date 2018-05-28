@@ -30,6 +30,8 @@
 | 026 |  用两个栈实现队列 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)  |
 | 027 |  丑数 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E4%B8%91%E6%95%B0.md)  |
 | 028 |  最小的K个数 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.md)  |
+| 029 |  调整数组顺序使奇数位于偶数前面 | [Java解法](https://github.com/WangliLin/SwordForOffer/blob/master/%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md)  |
+
 
 
 
